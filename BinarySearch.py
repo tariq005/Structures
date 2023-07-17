@@ -1,7 +1,6 @@
 n = int(input())
 l, r = 0, n-1
 a = list(range(1, n+1))
-print(a)
 x = int(input())
 
 while l < r:
